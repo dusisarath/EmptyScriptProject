@@ -1,2 +1,4 @@
 # EmptyScriptProject
 EmptyScriptProject
+
+Test msg
