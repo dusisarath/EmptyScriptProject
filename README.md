@@ -14,6 +14,3 @@ project upgraded to v2, v1 pipeline should not fire now.
 
 #HELLO WORLD
 #removed the triggers, v2 pipeline should fire up
-
-#deleted v2 toolchain, v1 pipeline should fire up
-#Random string
